@@ -5,6 +5,7 @@ class Shoe
     @brand = brand
   end
   
-  attr_accessor :
+  attr_accessor : 
+  attr_reader :brand
   
 end
